@@ -1,6 +1,7 @@
 # Odin Recipes
 
 **Description**
+
 Webpage of recipes made entirely using HTML. It has a mainpage linking to each recipe page and it's content.
 
 It was a good practice on links, images, lists, paragraphs, Git/GitHub, etc. Also, I learned to publish my page on GitHub.
